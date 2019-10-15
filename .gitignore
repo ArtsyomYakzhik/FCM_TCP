@@ -1,0 +1,5 @@
+.vs/
+FCM_TCP/bin/
+FCM_TCP/obj/
+FCM_TCP/Properties/
+FCM_TCP/*.config
